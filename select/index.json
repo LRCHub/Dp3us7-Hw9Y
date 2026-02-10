@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "WHORU?",
+  "base_artist": "Awich",
+  "createdAt": "2026-02-10T05:24:35.228453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WHORU?",
+      "artist": "Awich feat. Anarchy",
+      "has_synced": true,
+      "path": "select/01_WHORU_Awich_feat._Anarchy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WHORU?",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/02_WHORU_Awich.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WHORU? (feat. ANARCHY)",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/03_WHORU__(feat._ANARCHY)_Awich.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WhoRU",
+      "artist": "whogle1",
+      "has_synced": true,
+      "path": "select/04_WhoRU_whogle1.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHORU?",
+      "artist": "Awich",
+      "has_synced": false,
+      "path": "select/pl_01_WHORU_Awich.txt"
+    }
+  ]
+}
